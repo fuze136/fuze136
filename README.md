@@ -14,10 +14,6 @@
 <a href="https://discord.gg"><img src="https://img.shields.io/badge/𝕱𝖚𝖈𝖊136-%232312-%232c2f33?style=flat-square&logo=discord" height="25"></a>
 
 
-## CI/CD experience:
-<code><img height="50" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
-
-
 ## Projects:
 <code><a href="https://blackfuz361.wixsite.com/blackfuz361"><img height="50" src="https://static.wixstatic.com/media/b9f5f9_34b35a77bc2f4187ba32206d07108255~mv2.png/v1/fill/w_911,h_422,al_c,lg_1,q_90,enc_auto/b9f5f9_34b35a77bc2f4187ba32206d07108255~mv2.png"></a></code>
 
