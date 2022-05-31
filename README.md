@@ -1,4 +1,10 @@
-### Hi there 👋
+### fuze136
+
+## About me
+I'm from Spain
+I can speak spanish, english, german and french
+I know from Big-Data and other things.
+My Hobbies are swimming, judo, basketball and drive Go-Karts
 
 
 ## Languages:
