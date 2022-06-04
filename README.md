@@ -17,6 +17,7 @@ My Hobbies are swimming, judo, basketball and drive Go-Karts
 <code><img height="60" src="https://img.icons8.com/color/96/000000/html-5.png"></code>
 <code><img height="60" src="https://rosamarfil.es/tutoriales/wp-content/uploads/2019/08/java-logo-png.png"></code>
 <code><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"></code>
+<code><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
 
 
 ## Social:
