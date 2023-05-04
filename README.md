@@ -26,7 +26,7 @@ My Hobbies are swimming, judo, basketball and drive Go-Karts
 
 
 ## Projects:
-<code><a href="https://fuze136.github,io/"><img height="50" src="https://static.wixstatic.com/media/b9f5f9_34b35a77bc2f4187ba32206d07108255~mv2.png/v1/fill/w_911,h_422,al_c,lg_1,q_90,enc_auto/b9f5f9_34b35a77bc2f4187ba32206d07108255~mv2.png"></a></code>
+<code><a href="https://fuze136.github.io/"><img height="50" src="https://static.wixstatic.com/media/b9f5f9_34b35a77bc2f4187ba32206d07108255~mv2.png/v1/fill/w_911,h_422,al_c,lg_1,q_90,enc_auto/b9f5f9_34b35a77bc2f4187ba32206d07108255~mv2.png"></a></code>
 
 
 ![fuze136's github stats](https://github-readme-stats.vercel.app/api?username=fuze136&show_icons=true&hide=[%22issues%22])
