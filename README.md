@@ -2,10 +2,12 @@
 
 
 ## About me
-I'm from Spain
-I can speak spanish, english, german and french
-I know from Big-Data and other things.
-My Hobbies are swimming, judo, basketball and drive Go-Karts
+I'm from Spain.
+I can speak Spanish, English, German and a little bit of French.
+I know a little of Big-Data, Frontend developing, starting LAN services like FTP, DNS, HTTP, DHCP and NAT.
+I am able to create Web services with Apache2 and Docker.
+My Hobbies are swimming, judo, basketball, drive Go-Karts and create small projects such as mentioned before.
+I'm starting to create my own self-made hosting, I look forward with it.
 
 
 ## Languages:
@@ -18,6 +20,7 @@ My Hobbies are swimming, judo, basketball and drive Go-Karts
 ## Social:
 <a href="https://github.com/fuze136"><img src="https://img.shields.io/badge/-@fuze136-%23181717?style=flat-square&logo=github" height="25"></a>
 <a href="https://discord.gg"><img src="https://img.shields.io/badge/𝕱𝖚𝖈𝖊136-%232312-%232c2f33?style=flat-square&logo=discord" height="25"></a>
+<a href="https://www.youtube.com/@fuze136"><img src="https://www.citypng.com/public/uploads/preview/red-youtube-logo-symbol-701751694792489qxkccchok1.png" height="25"></a>
 
 
 ## Projects:
