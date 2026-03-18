@@ -1,6 +1,3 @@
-## fuze136
-
-
 ## About me
 I'm from Spain.
 I can speak Spanish, English, German and a little bit of French.
