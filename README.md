@@ -15,6 +15,8 @@ I'm starting to create my own self-made hosting, I look forward with it.
 <code><img height="60" src="https://img.icons8.com/color/96/000000/css3.png"></code>
 <code><img height="60" src="https://img.icons8.com/color/96/000000/html-5.png"></code>
 <code><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"></code>
+<code><img height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvmyu4z-UoN8G-UBgqRW6_DoD5hB-XfXo4xMPNrukSMVi1dnZL45xdhAwIqZhW0it9kpp04qXqYoWEVVY4naQo1dnKXdGO&s&ec=121585077"></code>
+<code><img height="60" src="https://img.icons8.com/fluent/1200/sql.jpg"></code>
 
 
 ## Social:
