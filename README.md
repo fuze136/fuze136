@@ -19,6 +19,13 @@ I'm starting to create my own self-made hosting, I look forward with it.
 <code><img height="60" src="https://img.icons8.com/fluent/1200/sql.jpg"></code>
 
 
+## Tech Stuff:
+<code><img height="60" src="https://www.raspberrypi.com/app/uploads/2020/06/raspberrry_pi_logo.png"></code>
+<code><img height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNFWpPm9AIdapdqHBOfyS3wbC6XDBprbIycAYwXqKL8zGQ26gIQOVTGI_5ZuG8UXQg-HiII3gOhUNYaItYsl8Yxr5Xq7IU&s&ec=121585077"></code>
+<code><img height="60" src="https://d3g9o9u8re44ak.cloudfront.net/logo/26c78277-ae72-442e-ad4f-f6fb06265887/c54b4d4c-a6b6-4ff3-8a82-0b01fd94bb4b.png"></code>
+<code><img height="60" src=""></code>
+
+
 ## Social:
 <a href="https://github.com/fuze136"><img src="https://img.shields.io/badge/-@fuze136-%23181717?style=flat-square&logo=github" height="25"></a>
 <a href="https://discord.gg"><img src="https://img.shields.io/badge/𝕱𝖚𝖈𝖊136-%232312-%232c2f33?style=flat-square&logo=discord" height="25"></a>
