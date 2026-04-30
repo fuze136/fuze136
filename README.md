@@ -2,7 +2,7 @@
 I'm from Spain.
 I can speak Spanish, English, German and a little bit of French.
 I know a little of Big-Data, Frontend developing, starting LAN services like FTP, DNS, HTTP, DHCP and NAT.
-I am able to create Web services with Apache2 and Docker.
+I am able to create Web services with Apache2, Nginx and Docker.
 My Hobbies are swimming, judo, basketball, drive Go-Karts and create small projects such as mentioned before.
 I'm starting to create my own self-made hosting, I look forward with it.
 
